@@ -1,6 +1,3 @@
-year_now = 2020
-num_now = 3400
-IDlimit = 1000000
 accounts = [‘20203990123’,’20203991123a’,’20203992password’,’20203993zxczxc’,’20203994september22’,’20203995xu4ever’,’20203996yourmomisgae123’,’20203997zxcvbn’,’202039981492isnice’,’20203999silentnight_666’]
 
 #format of key, <ID><password><points>
