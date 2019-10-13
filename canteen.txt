@@ -1,0 +1,2 @@
+canteen = [‘burger’,’spaghetti’,’adobong manok’,’barbecue’,’fried chicken’]
+
